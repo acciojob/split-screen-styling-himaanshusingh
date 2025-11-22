@@ -33,7 +33,7 @@ article {
   padding: 1em;
 }
 aside {
-  width: 20vw;
+  flex: 1 1 0%;
   background-color: #f5f5dc;
   padding: 1em;
 }
