@@ -29,8 +29,7 @@ header {
   height: 60vh;
 }
 article {
-  width: 60vw;
-  height: 60vh;
+  flex: 3 1 0%;
   padding: 1em;
 }
 aside {
